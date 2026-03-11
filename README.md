@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey, I'm Pedro Vasconez Toledo 👋
 
-<!--
-**Pedro-44/Pedro-44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mechatronics Engineering Student @ QUT** 📍 Brisbane, Australia
 
-Here are some ideas to get you started:
+I am an aspiring Mechatronics Engineer (Honours) with a focus on **Robotics and Electrical systems**. I'm passionate about the ethical use of engineering, combining software and hardware through control systems, embedded electronics, and autonomous design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Toolkit
+
+* **Programming:** Python (NumPy, RoboticsToolbox), MATLAB/Simulink, C, LaTeX
+* **Robotics & Control:** Kinematics, Dynamics, Computer Vision, PID Control, LTI Systems
+* **Embedded Systems:** Arduino, Raspberry Pi, Microcontrollers, PCB Design (Altium)
+* **Design & Simulation:** Autodesk, CoppeliaSim, LTspice
+
+### 🚀 Featured Projects
+
+* **Mechatronics Firefighter Robot:** A full-cycle development project including CAD modeling and hardware integration of sensors and actuators.
+* **Line Following Robot:** An autonomous bot programmed in C and Python featuring custom-designed PCBs.
+* **Signal Analysis PEER Leadership:** Supported peers in mastering complex system concepts and signal processing.
