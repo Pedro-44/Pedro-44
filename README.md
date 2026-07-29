@@ -6,14 +6,14 @@ I am an aspiring Mechatronics Engineer (Honours) with a focus on **Robotics and 
 
 ---
 
-### 🛠️ Technical Toolkit
+### Technical Toolkit
 
 * **Programming:** Python (NumPy, RoboticsToolbox), MATLAB/Simulink, C, LaTeX
 * **Robotics & Control:** Kinematics, Dynamics, Computer Vision, PID Control, LTI Systems
 * **Embedded Systems:** Arduino, Raspberry Pi, Microcontrollers, PCB Design (Altium)
 * **Design & Simulation:** Autodesk, CoppeliaSim, LTspice
 
-### 🚀 Featured Projects
+### Featured Projects
 
 * **Mechatronics Firefighter Robot:** A full-cycle development project including CAD modeling and hardware integration of sensors and actuators.
 * **Line Following Robot:** An autonomous bot programmed in C and Python featuring custom-designed PCBs.
