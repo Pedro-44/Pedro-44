@@ -15,6 +15,6 @@ I am an aspiring Mechatronics Engineer (Honours) with a focus on **Robotics and 
 
 ### Featured Projects
 
-* **Mechatronics Firefighter Robot:** A full-cycle development project including CAD modeling and hardware integration of sensors and actuators.
+* **Warehouse Item Collection Robot:** A full-cycle development project including CAD modeling and hardware integration of sensors and actuators.
 * **Line Following Robot:** An autonomous bot programmed in C and Python featuring custom-designed PCBs.
 * **Signal Analysis PEER Leadership:** Supported peers in mastering complex system concepts and signal processing.
